@@ -10,6 +10,19 @@
 - [ ] Segurança nivel básico
 - [ ] Upload dos dados
 
+Job para a equipe 1:
+- Arrurar melhor esse código.
+- Estruturar melhor o DB.
+
+Job para equipe 2:
+- Estruturar o sistema de formulário
+- Garantir o nivel de segurança. 1
+
+Pesquisar sobre:
+- Motor de pesquisa
+- Non-Static webpage
+
+USE BOOTSTRAP PARA AGILIZAR O FRONT!
 ---
 
 ## Executando em seu Computador
