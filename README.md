@@ -3,14 +3,7 @@
 Pesquisa: [PPO do Yan](https://github.com/CNUCG-BACKEND/back-end-cnucg)
 
 - [x] Montar telas 
-- [ ] Certificar conecxão
-- [ ] Abrir o Express 
-- [ ] Montar o BD
-- [ ] Certificar o Back
-- [ ] M.Et Frontend
-- [ ] F.P Acervo Frontend
-- [ ] Segurança nivel básico
-- [ ] Upload dos dados
+- [ ] Alterar o código do yan para atender nossas depedências 
 
 Job para a equipe 1:
 - Arrurar melhor esse código.
@@ -29,12 +22,16 @@ USE BOOTSTRAP PARA AGILIZAR O FRONT!
 
 ## Executando em seu Computador
 
-- Execute os comandos em uma pasta (como Documentos, Desktop, etc)
+Execute isso com a porta padrão já aberta,
+Gerenciadores:
 
+- (PostegreSQl)[https://www.postgresql.org/]
+- (MySQL Workbench)[https://www.mysql.com/products/workbench/]
+  
 ```bash
-git clone https://github.com/helo-wordd/ppo
-cd ppo/
 npm i
+npm run build
+npm run create-admin
 npm run dev
 ```
 
