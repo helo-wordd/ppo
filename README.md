@@ -31,12 +31,14 @@ USE BOOTSTRAP PARA AGILIZAR O FRONT!
 
 - Execute os comandos em uma pasta (como Documentos, Desktop, etc)
 
+abre sua porta no ``SQL-Workbeanch`` 
+
 ```bash
-git clone https://github.com/helo-wordd/ppo
-cd ppo/
 npm i
+npm run create-admin
 npm run dev
 ```
+Abra no local 
 
 # Museu Entomológico Virtual do IFC Camboriú
 
