@@ -24,9 +24,8 @@ USE BOOTSTRAP PARA AGILIZAR O FRONT!
 
 Execute isso com a porta padrão já aberta,
 Gerenciadores:
-
-- (PostegreSQl)[https://www.postgresql.org/]
-- (MySQL Workbench)[https://www.mysql.com/products/workbench/]
+(PostegreSQl)[https://www.postgresql.org/]
+(MySQL Workbench)[https://www.mysql.com/products/workbench/]
   
 ```bash
 npm i
